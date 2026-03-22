@@ -1,6 +1,6 @@
 /**
  * Name: Mason Ford
- * Date: 2026-03-21
+ * Date: 03/14/2026
  * Assignment: SDC230 Performance Assessment - Smallest Number
  * Description: This program asks the user how many integers they will enter,
  * then determines and prints the smallest value entered.
